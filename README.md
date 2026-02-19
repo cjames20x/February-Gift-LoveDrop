@@ -1,4 +1,4 @@
-# 💌 LoveDrop
+# 💌 February LoveDrop - A Monthly Project by Mer & CJ
 
 > A Valentine's Day gift experience — send or receive a surprise gift with a personalized love letter.
 
